@@ -2,6 +2,10 @@
 Aavartan repo after removing some sensitive files and code.
 Though, it is not completely clean as of now.
 
+->Front-end of the website is designed by me and Mihir Kumar Singh.
+->Backend-end is devloped by Vinay Khobragade.
+
+
 # All static files are removed...
 They don't matter much.
 
